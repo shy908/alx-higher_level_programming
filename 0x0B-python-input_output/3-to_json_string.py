@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-
-"Function that returns the JSON representation of an
-object representation"""
-
+"""This is a module for to_json_string."""
 
 import json
 
